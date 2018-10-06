@@ -1,0 +1,22 @@
+.button{
+	width:300px;
+	height:40px;
+	border:2px solid #3333ff;
+	border-radius:10px;
+	background-colour:#4CAF50;
+}
+.button>p{
+       text-align: center;
+       font-family: arial;
+       font-weight: italic;
+      
+
+}
+div:hover{
+    background-color: #4CAF50;
+    color:red;
+
+}
+#link{
+	text-decoration: none;
+}
